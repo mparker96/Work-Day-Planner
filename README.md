@@ -13,12 +13,11 @@ This can be done to increase productivity by allocating specifc time to tasks to
 ## Deployment
 This application is deployed on Github Pages.
 
-URL to deployed site: 
+URL to deployed site: https://mparker96.github.io/Work-Day-Planner/
 
 
 
  ![My Image](./assets/images/Work-Day-Planner.png)
-
 
 
 
